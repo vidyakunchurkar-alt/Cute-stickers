@@ -1,1 +1,1 @@
-stickers.html
+index.html
